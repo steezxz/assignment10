@@ -1,0 +1,93 @@
+*{
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+
+body{
+    justify-content: center;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+  justify-content: center;
+  margin-top: 4%;
+  margin-left: 21%;
+  margin-right: 21%;
+}
+
+#sidebar-one, #sidebar-two, #sidebar-three{
+  border:5px rgb(255, 255, 255) solid;
+  width: 30%;
+}
+
+.logo{
+  text-align: center;
+}
+
+h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 30px;
+  font-size: 38px;
+  text-align: center;
+  text-overflow: ellipsis;
+}
+
+h1{
+  font-family: cursive;
+  padding: 30px;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 9%;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  float: right;
+  text-align: center;
+  margin: 0px;
+  font-size: large;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+
+.buttons{
+  float: right;
+  display: flex;
+  right: 20.45%;
+  margin-top: 1.1%;
+  position: relative;
+}
+
+.contactus{
+  position: relative;
+  left: 1686px;
+  top: 0px;
+  font-size: 40px;
+  margin-top: 0.001px;
+}
+
+.controller{
+  margin-left: 37.4%;
+  margin-bottom: 5%;
+  margin-top: 16%;
+}
+
+.slideshow1{
+  margin-left: 25.5%;
+  width: 50%;
+  margin-bottom: 5%;
+  margin-top: 13%;
+  list-style: none;
+}
+
+.footer{
+  margin-top: 5%;
+  margin-left: 37.5%;
+  margin-bottom: 5%;
+  font-size: 25px;
+}
